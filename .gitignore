@@ -1,0 +1,4 @@
+/log/*
+!/log/theone.log
+
+*.DS_Store
